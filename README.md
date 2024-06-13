@@ -3,9 +3,7 @@ DRF integration with Google OAuth: Simplifying social authentication
 
 ## Overview
  a comprehensive guide aiming to fill the gaps often found in Social OAuth tutorials. Whether you're grappling with Google, Facebook, 
- GitHub, or any other social account integration, this guide will do it for you.
- Assuming you're already acquainted with Django and Django Rest Framework
- we'll go into the implementation of social authentication using drf-social-oauth2 and Google as our primary example. Rest assured, the principles outlined here are applicable across various social platforms.
+ GitHub, or any other social account integration, this guide will do it for you. Assuming you're already acquainted with Django and Django Rest Framework
 
 
 ## Features
